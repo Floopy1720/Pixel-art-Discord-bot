@@ -294,4 +294,4 @@ async def start(ctx):
 			await ctx.send("Stopped")
 	
 
-client.run("ODM1NzczNDM2ODg1NDY3MTQ2.YIUUqw.BEz4RwWV5JUy4eafEfUQOXrf9so")
+client.run("I AM NOT DUMB")
